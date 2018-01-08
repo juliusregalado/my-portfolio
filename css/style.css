@@ -1,0 +1,44 @@
+html {
+	height: 100%;
+}
+body {
+	background: url(../img/background1.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+.navbar-brand {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 24px;
+}
+
+.highlight {
+  color: #e50000;
+}
+
+#content {
+	font-family: "Anton";
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px black,
+				 0px 8px 13px red;
+				 /*0px 18px 23px red; */
+}			
+
+
+h1 {
+	font-weight: 500;
+	font-size: 4em;
+}
+
+h3 {
+	padding: 20px;
+}
+
+button.btn.btn-primary {
+	width: 40%;
+	margin: 0 auto;
+	background-color: #b20000;
+	border: 2px solid black;
+}
